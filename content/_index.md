@@ -15,7 +15,7 @@ Do you have any of the following concerns about Japanese products?
 - Unsure about Japanese
 - Does not accept payments from overseas
 
-[Please contact us](https://docs.google.com/forms/d/e/1FAIpQLScPbRvBCLIDOTjli-CLY_JgQjAiRLjFDbrzoun1YCKP3-vO1A/viewform?usp=header)
+[Please contact us](https://forms.gle/1MsC5vXuLV1VNZHaA)
 </center>
 
 ## Services
