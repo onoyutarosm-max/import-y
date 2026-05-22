@@ -1,0 +1,53 @@
+baseURL = 'https://example.org/'
+enableEmoji = true
+enableRobotsTXT = true
+locale = "ja_JP"
+title = 'Ibaraki samurai shop ~Transfer service from Japan~'
+theme = "gokarna"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
+
+[params]
+  avatarAltText = "avatar"
+  avatarSize = "size-l"
+  avatarURL = "/images/nun-theme.webp"
+
+  footer = "Ibaraki samurai shop"
+  showBackToTopButton = true 
+
+    socialIcons = [
+      {name = "instagram", url = "https://example.com"},
+      {name = "x", url = "https://x.com"},
+      {name = "googleforms", url = "https://example.com"},
+    ]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<span data-feather='home'></span>"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Projects"
+    pre = "<span data-feather='code'></span>"
+    url = "/projects/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Tags"
+    pre = "<span data-feather='tag'></span>"
+    url = "/tags/"
+    weight = 4
+  fontSize = "1.1rem" 
+  togglePreviousAndNextButtons = false
