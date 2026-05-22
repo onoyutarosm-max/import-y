@@ -22,7 +22,7 @@ theme = "gokarna"
     socialIcons = [
       {name = "instagram", url = "https://example.com"},
       {name = "x", url = "https://x.com"},
-      {name = "googleforms", url = "https://example.com"},
+      {name = "googleforms", url = "https://forms.gle/DV6vhKmGrPeQfkaM6"},
     ]
 
 [menu]
