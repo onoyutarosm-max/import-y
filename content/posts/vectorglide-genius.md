@@ -1,7 +1,7 @@
 ---
 date: 2026-05-23T11:00:30+09:00
 description: "Here is a description of Vectorglide’s Big Fat skis."
-image: "/images/geniusski.png "
+image: "/images/geniusski.png"
 lastmod: 2026-05-23
 showTableOfContents: false
 tags: ["blog", "backcountry ski"]
