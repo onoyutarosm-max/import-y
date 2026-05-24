@@ -4,7 +4,7 @@ description: "Here is a description of Vectorglide’s Big Fat skis."
 image: "/images/geniusski.png"
 lastmod: 2026-05-23
 showTableOfContents: false
-tags: ["blog", "backcountry ski"]
+tags: ["blog", "backcountry ski, japow"]
 title: "Vectorglide Genius"
 type: "post"
 ---
